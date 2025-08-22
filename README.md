@@ -310,7 +310,7 @@ TransForma/
 ```
 
 ### 🔧 Technology Stack
-- **Frontend**: React 18, Next.js 14, Tailwind CSS
+- **Frontend**: React 19, Next.js 15, Tailwind CSS
 - **Backend**: Next.js API Routes
 - **File Processing**: Node.js native modules
 - **UI Components**: Lucide React icons
