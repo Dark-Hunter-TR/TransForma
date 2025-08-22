@@ -54,7 +54,7 @@
 - **🎯 One-Click Conversion**: Simple and efficient workflow
 
 ### 🔧 Technical Features
-- **🚀 Next.js 14**: Latest React framework with App Router
+- **🚀 Next.js 15**: Latest React framework with App Router
 - **⚡ Server-Side Processing**: Fast and efficient file handling
 - **🔒 Secure Downloads**: Temporary file storage with automatic cleanup
 - **📈 Performance Optimized**: Minimal memory usage and fast processing
